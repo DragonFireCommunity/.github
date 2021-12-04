@@ -1,3 +1,5 @@
+![alt text](dfcommunitywelcomeyou.png)
+
 ## Hi there 👋
 
 <!--
