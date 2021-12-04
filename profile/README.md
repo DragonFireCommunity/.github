@@ -1,4 +1,4 @@
-![alt text](dfcommunitywelcomeyou.png)
+![alt text](https://github.com/DragonFireCommunity/.github/raw/main/profile/dfcommunitywelcomeyou.png)
 
 ## Hi there 👋
 
