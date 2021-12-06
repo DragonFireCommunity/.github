@@ -7,3 +7,6 @@
  - We are DEVELOPERS
  - We are COMMUNITY
  - Join Us!
+
+# Us projects:
+ - [DragonConsole - Greatest console for everyone](https://github.com/DragonFireCommunity/DragonConsole)
