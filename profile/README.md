@@ -1,12 +1,11 @@
 ![alt text](https://github.com/DragonFireCommunity/.github/raw/main/profile/dfcommunitywelcomeyou.png)
 
-## Hi there 👋
+## Добро пожаловать в DragonFire Community! 👋
 
- - We are - DF Community By DragonFire
- - We are making Music, Apps, Games etc
- - We are DEVELOPERS
- - We are COMMUNITY
- - Join Us!
+### Что мы разрабатываем?
+ - Мы разрабатываем программы и Discord ботов (В основном на JS или Python)
 
-# Us projects:
- - [DragonConsole - Greatest console for everyone](https://github.com/DragonFireCommunity/DragonConsole)
+
+# Наши проекты:
+ - [DragonConsole - Консоль для каждого (Проект закрыт)](https://github.com/DragonFireCommunity/DragonConsole)
+ - [Dragoncord - Модифицированный, простой, и открытый веб клиент для Discord](github.com/Dragoncord-for-discord/)
