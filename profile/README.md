@@ -8,4 +8,4 @@
 
 # Наши проекты:
  - [DragonConsole - Консоль для каждого (Проект закрыт)](https://github.com/DragonFireCommunity/DragonConsole)
- - [Dragoncord - Модифицированный, простой, и открытый веб клиент для Discord](github.com/Dragoncord-for-discord/)
+ - [Dragoncord - Модифицированный, простой, и открытый веб клиент для Discord](https://github.com/Dragoncord-for-discord/)
